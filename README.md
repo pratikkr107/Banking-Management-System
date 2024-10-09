@@ -37,9 +37,16 @@ Follow these steps to set up and run the project on your local machine:
 - MySQL (or your preferred database system)
 
 # 📸 Screenshots
-- Screenshot 1
+
+![Database Schema management](https://github.com/user-attachments/assets/c81cdf23-cfbd-44bb-99b6-7dfe798724c4)
+
 
 # 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
 
-# Happy coding! 🎉
+## Show your support
+
+Give a ⭐ if you like this repo!
+
+Thank you for visiting my repository! Happy coding!
+
